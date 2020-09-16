@@ -12,4 +12,5 @@ Purpose of this is to learn about Git
 
 ## Deployment
 
+This is what needs to be done for deployment
 ## How to Contribute
